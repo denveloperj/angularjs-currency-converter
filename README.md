@@ -1,7 +1,16 @@
 # angularjs-currency-converter
 This project was done for a coding test.
 
+Languages / Technologies used in this project:
 
-I have committed all of the node_modules needed to save you entering the "npm install" command.
+*   AngularJS.
+*   Javascript.
+*   HTML5.
+*   CSS3.
+*   Gulp.
 
-# The project uses GULP so just make sure you run the "gulp" command to start the local server and also to make changes.
+How to run:
+
+1.  Navigate to the directory.
+2.  Open terminal or command prompt.
+3.  Enter "gulp" (minus the speech marks) and BOOM you can edit away!
