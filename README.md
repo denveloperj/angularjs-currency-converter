@@ -6,7 +6,7 @@ Languages / Technologies used in this project:
 *   AngularJS.
 *   Javascript.
 *   HTML5.
-*   CSS3.
+*   CSS3 / SASS.
 *   Gulp.
 
 How to run:
